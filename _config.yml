@@ -1,0 +1,9 @@
+# Site settings
+title: Maria José Cires
+author:
+  name: Maria José Cires
+  email: mariajosecires@gmail.com
+description: "Website of Maria José Cires"
+
+# Build settings
+remote_theme: jekyll/minima
