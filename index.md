@@ -8,4 +8,4 @@ My research profile is related to the field of healthy food. I did my research u
 My doctoral thesis is about the protective effect of proanthocyanidins against the deleterious effect of a high protein diet.
 I am open to extending my knowledge to other research areas.
 
-My list of publication is available on [Google Scholar ](https://scholar.google.com/citations?user=wsH4ME4AAAAJ&hl=es) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=María+José+Cires).
+The list of my publications is available on [Google Scholar ](https://scholar.google.com/citations?user=wsH4ME4AAAAJ&hl=es) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=María+José+Cires).
